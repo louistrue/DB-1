@@ -14,10 +14,6 @@ Jupyter Notebooks für das Modul *Digitales Bauen 1*. Die Notebooks vermitteln P
 
 ## Features
 
-### CREATE
-
-[CREATE](https://create.buildinginformatics.org/) wird im Kurs eingesetzt, um Bauteile und Klassifikationen digital zu erstellen und zu verwalten. Studierende lernen, wie strukturierte Bauteilinformationen angelegt und mit offenen Standards verknüpft werden.
-
 ### bSDD
 
 Der [buildingSMART Data Dictionary (bSDD)](https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/) ist ein Online-Service für Klassifikationen, Eigenschaften und Materialien im Bauwesen. Im Kurs wird gezeigt, wie bSDD-Daten abgefragt und in eigene Workflows integriert werden können.
